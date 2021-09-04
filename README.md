@@ -22,6 +22,8 @@ This has been a very meandering project for me, and is something I work on whene
 - Integrated RaspberryPi running Repetier Host.
   - after the above the next natural step was to reap the benefits and add a network controller. Repeteri Host has a really nice touch interface, so it was loaded to a pi that's nicely integrated into the internals and running off of the built-in PSU via a voltage regulator.
   - I also had to exchange the touchscreen, since the default one only worked with BCN3D's default firmware. This one is connected directly to the pi via HDMI and has a couple of GPIO connections for the touch inputs.
+- Added external reset/emergency stop button
+  - again, this was somehow not included by default
 - Replaced all fans (exept layer fans) with Noctual fans
   - for that quiet performance. The slicer setting also turn the layer fans off when their respective extruder is parked.
  - Developed fully custom PrusaSlicer print profiles

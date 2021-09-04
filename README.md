@@ -27,4 +27,4 @@ This has been a very meandering project for me, and is something I work on whene
 - Replaced all fans (exept layer fans) with Noctual fans
   - for that quiet performance. The slicer setting also turn the layer fans off when their respective extruder is parked.
  - Developed fully custom PrusaSlicer print profiles
-  - where most of the most recent work has gone. Still working on these to improve the printer's reliability and prevent uncleaned ooze getting in the way
+  -where most of the most recent work has gone. Still working on these to improve the printer's reliability and prevent uncleaned ooze getting in the way
